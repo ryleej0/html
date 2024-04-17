@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: black;
+    background-color: rgba(236, 205, 168, 0.874);
+}
+
+li {
+    font-size: 14px;
+    font-weight: normal;
+}
+
+a:hover {
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+a:visited {color: red;}
+
+.number{
+    font-weight: bold;
+    font-style: normal;
+}
+
+.underline {text-decoration: underline;}
+.center {text-align: center;}
+
+.box{
+    border-width: 1px;
+    border-style: solid;
+    border-color: gray;
+}
